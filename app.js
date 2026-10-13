@@ -1,6 +1,6 @@
 // ==================== КОНСТАНТЫ ====================
 
-const API_BASE = 'https://ваш-домен.deploy-f.com'; // ← замени на свой
+const API_BASE = 'http://176.12.75.12:8000';
 
 const REGIONS = [
     { code: 'belgorod_oblast', name: 'Белгородская' },
